@@ -2,7 +2,7 @@
 # ---------------------------------------------------------------------------- #
 # Script Name: essential_commands.sh
 # Description: Demonstrates essential DevOps commands with practical examples
-# Site: git
+# Site: https://github.com/Mateusjesper/Praticas-DevOps-2026.git
 # Written by: Mateus Pereira
 # Maintenance: Mateus Pereira
 # ---------------------------------------------------------------------------- #
@@ -14,7 +14,7 @@
 # ---------------------------------------------------------------------------- #
 # History:
 #     v1.0 21/04/2026 - Mateus Pereira:
-#     - Complete script with real examples from activities
+#     - Initial version
 # ---------------------------------------------------------------------------- #
 
 # Variables ------------------------------------------------------------------- #
@@ -33,17 +33,18 @@ print_command() {
     eval "$1"
 }
 
-# CODE ------------------------------------------------------------------------ #
+# Main Code ------------------------------------------------------------------------ #
 clear
-print_section "DEVOPS COMMANDS + REAL EXAMPLES"
+print_section "ESSENTIAL DEVOPS COMMANDS DEMO"
+echo " "
 
-# 1. pwd (Atividade Shell)
-print_section "1. pwd - Diretório atual (Exemplo Atividade Shell)"
+# 1. pwd
+print_section "1. pwd - Diretório atual"
 print_command "pwd"
 echo "Descrição: Mostra diretório atual"
 echo "Exemplo real: localização do script"
 
-# 2. date (Atividade Shell)
+# 2. date
 print_section "2. date - Data e hora (Exemplo boas-vindas)"
 print_command "date"
 echo "Usado no script de boas-vindas"
