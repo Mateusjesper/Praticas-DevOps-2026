@@ -1,0 +1,8 @@
+
+#PRATICAS DE DEVOPS
+
+AUTOR: MATEUS PEREIRA
+DISCIPLINA: DEVOPS
+PROF: EDER PEREIRA
+
+#----------------------------------------
