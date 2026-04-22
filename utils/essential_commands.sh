@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ---------------------------------------------------------------------------- #
 # Script Name: essential_commands.sh
-# Description: Demonstrates essential DevOps commands with practical examples
+# Description: Demonstrates essential DevOps commands
 # Site: https://github.com/Mateusjesper/Praticas-DevOps-2026.git
 # Written by: Mateus Pereira
 # Maintenance: Mateus Pereira
